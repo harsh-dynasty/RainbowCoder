@@ -26,5 +26,7 @@ REvenge // Revenge can work positive for you as well :P
 Postive
 Unicorn
 
+this is added for first pull request
+
 
 There are many things which I can add to this file under RainbowCoder repository but i am not adding for now, Also i have deleted some lines above.
